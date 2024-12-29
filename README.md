@@ -1,19 +1,23 @@
-# Web Weavers Project
+<div align="center">
 
-![Stars](https://img.shields.io/github/stars/ctrlabhi/Web-Weavers)  
-![Forks](https://img.shields.io/github/forks/ctrlabhi/Web-Weavers)  
+![GitHub repo size](https://img.shields.io/github/repo-size/ctrlabhi/Web-Weavers)
+  ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/Web-Weavers?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/Web-Weavers?style=social)
+<hr>
+  <h1 align="center">Abhishek Kumar's Portfolio</h1>
+</div>
 
-## Overview  
+## 🚀 Overview  
 Web Weavers is a comprehensive platform designed to manage educational resources and interactions effectively. The project demonstrates an integrated system for handling students, professors, courses, assessments, and events with seamless user interfaces and robust functionalities.
 
-## Features  
+## 🌟 Features  
 - **Student Management**: Add, edit, and view student profiles.  
 - **Professor Management**: Handle professor details and their associated courses.  
 - **Courses and Assessments**: Add and view courses, manage assessments and assignments.  
 - **Event Management**: Maintain a calendar for holidays and events.  
 - **Authentication**: Secure login, registration, and OTP-based authentication system.
 
-## Folder Structure  
+## 📂 Folder Structure  
 ```
 Project Root/
 │
@@ -56,7 +60,7 @@ Project Root/
 ├── students.html            # Students dashboard
 ```
 
-## Technologies Used  
+## 🛠️ Technologies Used  
 - **HTML5**: For structuring content.  
 - **CSS3**: For styling and responsive design.  
 - **JavaScript**: For interactivity and dynamic content.  
@@ -77,7 +81,7 @@ Project Root/
    ```
 4. Open `index.html` in your preferred browser to view the application.  
 
-## Contributing  
+## 🧑‍💻 Contributing  
 Contributions are welcome! Follow these steps:
 1. Fork the repository.
 2. Create a new branch:
