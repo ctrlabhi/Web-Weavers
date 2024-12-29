@@ -4,7 +4,7 @@
   ![GitHub stars](https://img.shields.io/github/stars/ctrlabhi/Web-Weavers?style=social)
   ![GitHub forks](https://img.shields.io/github/forks/ctrlabhi/Web-Weavers?style=social)
 <hr>
-  <h1 align="center">Abhishek Kumar's Portfolio</h1>
+  <h1 align="center">Web Weavers</h1>
 </div>
 
 ## 🚀 Overview  
